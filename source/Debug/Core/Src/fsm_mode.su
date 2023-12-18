@@ -1,0 +1,2 @@
+fsm_mode.c:21:6:transitionState	4	static
+fsm_mode.c:25:6:fsm_mode_run	8	static

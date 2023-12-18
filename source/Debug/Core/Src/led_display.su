@@ -1,0 +1,3 @@
+led_display.c:38:6:update7SEG	16	static
+led_display.c:62:6:display_time_on_leds	24	static
+led_display.c:86:6:display7SEG	16	static
